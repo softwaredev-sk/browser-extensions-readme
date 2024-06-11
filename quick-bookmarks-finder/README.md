@@ -5,7 +5,7 @@ Extension URL:
 
 # Overview:
 
-Quick Bookmarks Finder is an essential browser extension that is designed to help you efficiently search your bookmarks. It offers powerful tools to search, and eliminate duplicate bookmarks, ensuring your bookmark library remains clutter-free and easy to navigate.
+Quick Bookmarks Finder is an essential browser extension that is designed to help you efficiently search your bookmarks. It offers powerful tools to search, and eliminate duplicate bookmarks, ensuring your bookmarks library remains clutter-free and easy to navigate.
 
 ## Features:
 
@@ -14,12 +14,12 @@ Quick Bookmarks Finder is an essential browser extension that is designed to hel
 - Easy To Search Interface: User-friendly interface to easily search and inspect the bookmarks' folder structure.
 - Recent Bookmarks: Easily find the recently saved bookmarks and find the folder in which it is saved.
 - Quick Access: Access your bookmarks directly from the extension popup for faster navigation.
-- Context Menu Integration: Right-click on extension icon to instantly open bookmark finder or duplicate bookmark finder in new tab.
+- Context Menu Integration: Right-click on extension icon to instantly open bookmarks finder or duplicate bookmarks finder in new tab.
 
 ## How to Use:
 
-- Install the Extension: Click on "Add to Browser" to install the Bookmark Finder and Duplicate Manager.
-- Open the Extension: Click on the extension icon in your browser toolbar to open the bookmark finder interface.
+- Install the Extension: Click on "Add to Browser" to install the Bookmarks Finder and Duplicate Manager.
+- Open the Extension: Click on the extension icon in your browser toolbar to open the bookmarks finder interface.
 - Scan for Duplicates: Use the duplicate finder tool to scan your bookmarks and remove any duplicates.
 - Search Bookmarks: Use the search bar to quickly find specific bookmarks by name or URL.
 
