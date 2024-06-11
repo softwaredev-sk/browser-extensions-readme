@@ -1,3 +1,8 @@
+Extension URL:
+
+- Chrome: [Quick Bookmarks Finder](https://chromewebstore.google.com/detail/quick-bookmarks-finder/kokolngidkfejinilklpdmlhajjddbfa)
+- Firefox: [Quick Bookmarks Finder](https://addons.mozilla.org/en-US/firefox/addon/quick-bookmarks-finder/)
+
 # Overview:
 
 Quick Bookmarks Finder is an essential browser extension that is designed to help you efficiently search your bookmarks. It offers powerful tools to search, and eliminate duplicate bookmarks, ensuring your bookmark library remains clutter-free and easy to navigate.

@@ -7,5 +7,5 @@
 
 ## Quick Bookmark Finder & Duplicate Finder
 
-- Chrome: []()
-- Firefox: []()
+- Chrome: [Quick Bookmarks Finder](https://chromewebstore.google.com/detail/quick-bookmarks-finder/kokolngidkfejinilklpdmlhajjddbfa)
+- Firefox: [Quick Bookmarks Finder](https://addons.mozilla.org/en-US/firefox/addon/quick-bookmarks-finder/)
